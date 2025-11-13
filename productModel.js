@@ -1,1 +1,1 @@
-console.log('Create product Model!');
+console.log('Update product Model!');
